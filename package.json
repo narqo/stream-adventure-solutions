@@ -1,0 +1,24 @@
+{
+  "name": "stream-adventure-solutions",
+  "version": "0.0.1",
+  "description": "Solutions for stream-adventure",
+  "dependencies": {
+    "split": "~0.2.10",
+    "concat-stream": "~1.0.1",
+    "through": "~2.3.4",
+    "request": "~2.27.0",
+    "websocket-stream": "~0.3.2",
+    "trumpet": "~1.6.2",
+    "tar": "~0.1.18"
+  },
+  "devDependencies": {
+    "stream-adventure": "~1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/narqo/stream-adventure-solutions"
+  },
+  "author": "Vladimir 'Vii' Varankin <nek.narqo@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
